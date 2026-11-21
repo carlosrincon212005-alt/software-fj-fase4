@@ -1,0 +1,91 @@
+[2026-11-21 16:24:25] [INFO] === Inicio de simulación Software FJ (Fase 4) ===
+[2026-11-21 16:24:25] [INFO] Cliente registrado correctamente: Cliente [CLI-01] - Laura Gómez (laura.gomez@correo.com)
+[2026-11-21 16:24:25] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-01).
+[2026-11-21 16:24:25] [INFO] Cliente registrado correctamente: Cliente [CLI-02] - Carlos Rincón (carlos.rincon@correo.com)
+[2026-11-21 16:24:25] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-02).
+[2026-11-21 16:24:25] [ERROR] ErrorValidacionCliente: El correo electrónico del cliente no tiene un formato válido. | Contexto: registrar_cliente
+[2026-11-21 16:24:25] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-03).
+[2026-11-21 16:24:25] [INFO] Servicio registrado correctamente: [Sala] Sala Ejecutiva Norte (SAL-101) - Capacidad: 12 personas - Disponible
+[2026-11-21 16:24:25] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:24:25] [INFO] Servicio registrado correctamente: [Equipo] Laptop Workstation i7 (EQP-202) - Categoría: Cómputo - Disponible
+[2026-11-21 16:24:25] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:24:25] [INFO] Servicio registrado correctamente: [Asesoría] Arquitectura de Software (ASE-303) - Especialidad: POO y Excepciones - Disponible
+[2026-11-21 16:24:25] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:29:37] [INFO] === Inicio de simulación Software FJ (Fase 4) ===
+[2026-11-21 16:29:37] [INFO] Cliente registrado correctamente: Cliente [CLI-01] - Laura Gómez (laura.gomez@correo.com)
+[2026-11-21 16:29:37] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-01).
+[2026-11-21 16:29:37] [INFO] Cliente registrado correctamente: Cliente [CLI-02] - Carlos Rincón (carlos.rincon@correo.com)
+[2026-11-21 16:29:37] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-02).
+[2026-11-21 16:29:37] [ERROR] ErrorValidacionCliente: El correo electrónico del cliente no tiene un formato válido. | Contexto: registrar_cliente
+[2026-11-21 16:29:37] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-03).
+[2026-11-21 16:29:37] [INFO] Servicio registrado correctamente: [Sala] Sala Ejecutiva Norte (SAL-101) - Capacidad: 12 personas - Disponible
+[2026-11-21 16:29:37] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:29:37] [INFO] Servicio registrado correctamente: [Equipo] Laptop Workstation i7 (EQP-202) - Categoría: Cómputo - Disponible
+[2026-11-21 16:29:37] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:29:37] [INFO] Servicio registrado correctamente: [Asesoría] Arquitectura de Software (ASE-303) - Especialidad: POO y Excepciones - Disponible
+[2026-11-21 16:29:37] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:29:47] [INFO] === Inicio de simulación Software FJ (Fase 4) ===
+[2026-11-21 16:29:47] [INFO] Cliente registrado correctamente: Cliente [CLI-01] - Laura Gómez (laura.gomez@correo.com)
+[2026-11-21 16:29:47] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-01).
+[2026-11-21 16:29:47] [INFO] Cliente registrado correctamente: Cliente [CLI-02] - Carlos Rincón (carlos.rincon@correo.com)
+[2026-11-21 16:29:47] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-02).
+[2026-11-21 16:29:47] [ERROR] ErrorValidacionCliente: El correo electrónico del cliente no tiene un formato válido. | Contexto: registrar_cliente
+[2026-11-21 16:29:47] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-03).
+[2026-11-21 16:29:47] [INFO] Servicio registrado correctamente: [Sala] Sala Ejecutiva Norte (SAL-101) - Capacidad: 12 personas - Disponible
+[2026-11-21 16:29:47] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:29:47] [INFO] Servicio registrado correctamente: [Equipo] Laptop Workstation i7 (EQP-202) - Categoría: Cómputo - Disponible
+[2026-11-21 16:29:47] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:29:47] [INFO] Servicio registrado correctamente: [Asesoría] Arquitectura de Software (ASE-303) - Especialidad: POO y Excepciones - Disponible
+[2026-11-21 16:29:47] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:33:44] [INFO] === Inicio de simulación Software FJ (Fase 4) ===
+[2026-11-21 16:33:44] [INFO] Cliente registrado correctamente: Cliente [CLI-01] - Laura Gómez (laura.gomez@correo.com)
+[2026-11-21 16:33:44] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-01).
+[2026-11-21 16:33:44] [INFO] Cliente registrado correctamente: Cliente [CLI-02] - Carlos Rincón (carlos.rincon@correo.com)
+[2026-11-21 16:33:44] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-02).
+[2026-11-21 16:33:44] [ERROR] ErrorValidacionCliente: El correo electrónico del cliente no tiene un formato válido. | Contexto: registrar_cliente
+[2026-11-21 16:33:44] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-03).
+[2026-11-21 16:33:44] [INFO] Servicio registrado correctamente: [Sala] Sala Ejecutiva Norte (SAL-101) - Capacidad: 12 personas - Disponible
+[2026-11-21 16:33:44] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:33:44] [INFO] Servicio registrado correctamente: [Equipo] Laptop Workstation i7 (EQP-202) - Categoría: Cómputo - Disponible
+[2026-11-21 16:33:44] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:33:44] [INFO] Servicio registrado correctamente: [Asesoría] Arquitectura de Software (ASE-303) - Especialidad: POO y Excepciones - Disponible
+[2026-11-21 16:33:44] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:33:44] [ERROR] ErrorServicioNoDisponible: La tarifa por hora de la sala debe ser mayor que cero. | Contexto: simulacion_servicio_invalido
+[2026-11-21 16:33:44] [INFO] Reserva 'RES-001' procesada exitosamente por $257040.00 para Laura Gómez.
+[2026-11-21 16:33:44] [DEBUG] Ciclo de reserva 'RES-001' concluido sin detener el sistema.
+[2026-11-21 16:33:44] [INFO] Reserva 'RES-002' procesada exitosamente por $101745.00 para Carlos Rincón.
+[2026-11-21 16:33:44] [DEBUG] Ciclo de reserva 'RES-002' concluido sin detener el sistema.
+[2026-11-21 16:33:44] [INFO] Reserva 'RES-003' cancelada correctamente.
+[2026-11-21 16:33:44] [DEBUG] Ciclo de reserva 'RES-003' concluido sin detener el sistema.
+[2026-11-21 16:33:44] [ERROR] ErrorReservaInvalida: Fallo en la operación de reserva 'RES-004': No se encontró el cliente con ID 'CLI-999'. <- Causado por ErrorValidacionCliente: No se encontró el cliente con ID 'CLI-999'. | Contexto: crear_y_procesar_reserva
+[2026-11-21 16:33:44] [DEBUG] Ciclo de reserva 'RES-004' concluido sin detener el sistema.
+[2026-11-21 16:33:44] [ERROR] ErrorReservaInvalida: La duración de la reserva debe ser un número entero positivo. | Contexto: crear_y_procesar_reserva
+[2026-11-21 16:33:44] [DEBUG] Ciclo de reserva 'RES-005' concluido sin detener el sistema.
+[2026-11-21 16:33:44] [ERROR] ErrorReservaInvalida: Fallo de cotización en prueba final. <- Causado por ErrorCalculoCosto: El porcentaje de descuento debe estar entre 0 y menor a 100. | Contexto: prueba_sobrecarga_costo
+[2026-11-21 16:33:44] [INFO] Resumen en memoria -> Clientes: 2 | Servicios: 3 | Reservas: 3
+[2026-11-21 16:34:01] [INFO] === Inicio de simulación Software FJ (Fase 4) ===
+[2026-11-21 16:34:01] [INFO] Cliente registrado correctamente: Cliente [CLI-01] - Laura Gómez (laura.gomez@correo.com)
+[2026-11-21 16:34:01] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-01).
+[2026-11-21 16:34:01] [INFO] Cliente registrado correctamente: Cliente [CLI-02] - Carlos Rincón (carlos.rincon@correo.com)
+[2026-11-21 16:34:01] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-02).
+[2026-11-21 16:34:01] [ERROR] ErrorValidacionCliente: El correo electrónico del cliente no tiene un formato válido. | Contexto: registrar_cliente
+[2026-11-21 16:34:01] [DEBUG] Intento de registro de cliente finalizado (ID=CLI-03).
+[2026-11-21 16:34:01] [INFO] Servicio registrado correctamente: [Sala] Sala Ejecutiva Norte (SAL-101) - Capacidad: 12 personas - Disponible
+[2026-11-21 16:34:01] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:34:01] [INFO] Servicio registrado correctamente: [Equipo] Laptop Workstation i7 (EQP-202) - Categoría: Cómputo - Disponible
+[2026-11-21 16:34:01] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:34:01] [INFO] Servicio registrado correctamente: [Asesoría] Arquitectura de Software (ASE-303) - Especialidad: POO y Excepciones - Disponible
+[2026-11-21 16:34:01] [DEBUG] Operación registrar_servicio evaluada.
+[2026-11-21 16:34:01] [ERROR] ErrorServicioNoDisponible: La tarifa por hora de la sala debe ser mayor que cero. | Contexto: simulacion_servicio_invalido
+[2026-11-21 16:34:01] [INFO] Reserva 'RES-001' procesada exitosamente por $257040.00 para Laura Gómez.
+[2026-11-21 16:34:01] [DEBUG] Ciclo de reserva 'RES-001' concluido sin detener el sistema.
+[2026-11-21 16:34:01] [INFO] Reserva 'RES-002' procesada exitosamente por $101745.00 para Carlos Rincón.
+[2026-11-21 16:34:01] [DEBUG] Ciclo de reserva 'RES-002' concluido sin detener el sistema.
+[2026-11-21 16:34:01] [INFO] Reserva 'RES-003' cancelada correctamente.
+[2026-11-21 16:34:01] [DEBUG] Ciclo de reserva 'RES-003' concluido sin detener el sistema.
+[2026-11-21 16:34:01] [ERROR] ErrorReservaInvalida: Fallo en la operación de reserva 'RES-004': No se encontró el cliente con ID 'CLI-999'. <- Causado por ErrorValidacionCliente: No se encontró el cliente con ID 'CLI-999'. | Contexto: crear_y_procesar_reserva
+[2026-11-21 16:34:01] [DEBUG] Ciclo de reserva 'RES-004' concluido sin detener el sistema.
+[2026-11-21 16:34:01] [ERROR] ErrorReservaInvalida: La duración de la reserva debe ser un número entero positivo. | Contexto: crear_y_procesar_reserva
+[2026-11-21 16:34:01] [DEBUG] Ciclo de reserva 'RES-005' concluido sin detener el sistema.
+[2026-11-21 16:34:01] [ERROR] ErrorReservaInvalida: Fallo de cotización en prueba final. <- Causado por ErrorCalculoCosto: El porcentaje de descuento debe estar entre 0 y menor a 100. | Contexto: prueba_sobrecarga_costo
+[2026-11-21 16:34:01] [INFO] Resumen en memoria -> Clientes: 2 | Servicios: 3 | Reservas: 3
